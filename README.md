@@ -1,5 +1,5 @@
 
-> このページを開く [https://aki-taylor.github.io/test/](https://aki-taylor.github.io/mb-test/)
+> このページを開く [https://aki-taylor.github.io/mb-test/](https://aki-taylor.github.io/mb-test/)
 
 ## 拡張機能として使用
 
